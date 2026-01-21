@@ -1,5 +1,5 @@
 use MyDataBase;
-
+ 
 INSERT INTO Sales_stores (store_id, store_name, phone, email, street, city, state, zip_code)
 VALUES
 (1, 'Hyderabad Store', '9876543210', 'hydstore@gmail.com', 'Ameerpet Road', 'Hyderabad', 'TS', '500016'),
